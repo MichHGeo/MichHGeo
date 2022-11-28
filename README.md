@@ -11,4 +11,6 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MichHGeo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
+<hr>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichHGeo)](https://github.com/anuraghazra/github-readme-stats)
